@@ -7,8 +7,7 @@ public class Achievement {
     }
 
     public enum Achievements {
-        BIGGER_COFFERS,
-
+        BIGGER_COFFERS
     }
 
 }

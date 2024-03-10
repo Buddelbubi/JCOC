@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8965151a-0fe8-4f64-8abb-396156223ade" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/de/buddelbubi/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/buddelbubi/clan/data/ClanType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/buddelbubi/clan/data/League.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/buddelbubi/clan/data/LocationData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/buddelbubi/clan/Clan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/buddelbubi/clan/Clan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/buddelbubi/player/data/Achievement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/buddelbubi/player/data/Achievement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/de/buddelbubi/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/de/buddelbubi/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +46,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.de.buddelbubi.Test">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="JCOC" />
@@ -48,8 +54,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="de.buddelbubi.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.buddelbubi.Test" />
+      <module name="JCOC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.buddelbubi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.de.buddelbubi.Test" />
         <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
